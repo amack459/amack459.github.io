@@ -1,10 +1,10 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+title:  "Modern Go!"
+subtitle: "For the Next Generation of Go Enthusiasts!"
+author: 
+avatar: 
+image: "img/go.jpg"
+date:   
 ---
 
 ### Dolor sit amet?

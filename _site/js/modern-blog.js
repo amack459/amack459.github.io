@@ -4,18 +4,16 @@
  * Demo.
  */
 
-
-// $(document).ready(function(){
-//     $("i.fa fa-envelope-o fa-3x").click(function(){
-//         $("p.email").toggle();
-//      });
-// });
-
-$(function(){
-    console.log("jquery working");
-});
-
 var demo = (function (window) {
+
+    $(document).ready(function(){
+        console.log("jquery")
+
+        $(".fa-envelope-o").on("click", function(){
+            console.log("click")
+            $("#email").toggleClass("hidden");
+         });
+    });
 
     /**
      * Enum of CSS selectors.

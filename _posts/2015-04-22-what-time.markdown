@@ -1,6 +1,7 @@
 ---
 title:  "Watches"
 subtitle: "The Bigger the better?"
+image: "img/go.jpg"
 ---
 
 ### Dolor sit amet?

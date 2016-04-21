@@ -1,6 +1,7 @@
 ---
 title:  "Modern Go!"
 subtitle: "For the Next Generation of Go Enthusiasts!"
+image: "img/go.jpg"
 ---
 
 ### Dolor sit amet?

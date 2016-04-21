@@ -1,6 +1,7 @@
 ---
 title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
+image: "img/go.jpg"
 ---
 
 ### Dolor sit amet?

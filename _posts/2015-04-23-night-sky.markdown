@@ -1,6 +1,7 @@
 ---
 title:  "Absense of light"
 subtitle: "Only lights from space"
+image: "img/go.jpg"
 ---
 
 ### Dolor sit amet?

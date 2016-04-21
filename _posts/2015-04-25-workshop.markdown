@@ -1,6 +1,7 @@
 ---
 title:  "A Craftsman Workshop"
 subtitle: "It's always a bit messy"
+image: "img/go.jpg"
 ---
 
 ### Dolor sit amet?

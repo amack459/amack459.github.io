@@ -1,10 +1,10 @@
 ---
 title:  "Modern Go!"
 subtitle: "For the Next Generation of Go Enthusiasts!"
-author: 
-avatar: 
+<!-- author: 
+avatar: --> 
 image: "img/go.jpg"
-date:   
+  
 ---
 
 ### Dolor sit amet?

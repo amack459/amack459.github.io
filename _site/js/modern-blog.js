@@ -3,6 +3,18 @@
 /**
  * Demo.
  */
+
+
+// $(document).ready(function(){
+//     $("i.fa fa-envelope-o fa-3x").click(function(){
+//         $("p.email").toggle();
+//      });
+// });
+
+$(function(){
+    console.log("jquery working");
+});
+
 var demo = (function (window) {
 
     /**

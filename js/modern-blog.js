@@ -54,8 +54,8 @@ var demo = (function (window) {
             cell_size: 90,
             variance: 1,
             stroke_width: 1,
-            x_colors: 'random',
-            y_colors: 'random'
+            x_colors: ['#000000', '#b3f2e5', '#00C099'],
+            y_colors: 'match_x'
         }).svg(); // Render as SVG.
 
         _mapPolygons(pattern);

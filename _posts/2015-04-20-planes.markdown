@@ -1,10 +1,10 @@
 ---
 title:  "Modern Go!"
 subtitle: "For the Next Generation of Go Enthusiasts!"
-<!-- author:  -->
+author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/go.jpg"
-<!-- date:    -->
+date:   
 ---
 
 ### Dolor sit amet?

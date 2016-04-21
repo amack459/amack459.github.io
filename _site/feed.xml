@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
     <channel>
-        <title>Modern Blog</title>
-        <description>Modern-Blog A Elegant template for Jekyll</description>
+        <title>Acacia Mack</title>
+        <description>Acacia Mack&#39;s Web Develeopment Portfolio</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Tue, 29 Mar 2016 09:50:26 -0400</pubDate>
-        <lastBuildDate>Tue, 29 Mar 2016 09:50:26 -0400</lastBuildDate>
+        <pubDate>Wed, 30 Mar 2016 11:35:02 -0400</pubDate>
+        <lastBuildDate>Wed, 30 Mar 2016 11:35:02 -0400</lastBuildDate>
         <generator>Jekyll v3.1.2</generator>
         
         <item>

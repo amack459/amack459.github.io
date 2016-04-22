@@ -2,6 +2,7 @@
 title: "Modern Go!"
 subtitle: "For the Next Generation of Go Enthusiasts!"
 image: "img/go.jpg"
+link: "https://moderngo.herokuapp.com"
 ---
 
 I wanted to create something that was a stepping stone for people interested in playing the ancient Chinese game of GO. This version is a lot less complicated, but designed to make people a bit more familiar with the simple logic of playing of the game. The first player with 5 pieces in a row from any direction wins.

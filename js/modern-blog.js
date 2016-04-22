@@ -8,10 +8,17 @@ var demo = (function (window) {
 
     $(document).ready(function(){
         console.log("jquery")
+        var count = 0
 
         $(".fa-envelope-o").on("click", function(){
             console.log("click")
-            $("#email").toggleClass("hidden");
+            count++;
+            if(count % 2 === 0){
+            $("#email").addClass('hidden');
+            } else {
+            $("#email").removeClass('hidden');   
+            }
+           
          });
     });
 

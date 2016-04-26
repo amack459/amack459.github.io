@@ -3,6 +3,7 @@ title:  "Studio Vibes"
 subtitle: "Facilitating Musical Collaboration"
 image: "img/studiovibes.jpg"
 link: "https://studiovibes.herokuapp.com"
+name: "studiovibes"
 ---
 
 

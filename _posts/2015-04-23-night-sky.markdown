@@ -2,6 +2,7 @@
 title:  "GreenHub"
 image: "img/greenhub.jpg"
 link: "https://greenhub.herokuapp.com"
+name: "greenhub"
 ---
 
 A group project that focused on providing a communal space for users that would like to make cleanup initiatives around London. You’re able to login and setup an event under specific categories. Once it is live, other members can sign up to help with your initiative. 

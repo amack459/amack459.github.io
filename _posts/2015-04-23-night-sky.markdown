@@ -1,11 +1,15 @@
 ---
-title:  "GreenHub"
-image: "img/greenhub.jpg"
-link: "https://greenhub.herokuapp.com"
-name: "greenhub"
+title: "CARfetch"
+subtitle: "Luxury Cars at the Push of a Button"
+image: "img/carfetch.jpg"
+link: "https://carfetch.herokuapp.com"
+name: "carfetch"
 ---
 
-A group project that focused on providing a communal space for users that would like to make cleanup initiatives around London. You’re able to login and setup an event under specific categories. Once it is live, other members can sign up to help with your initiative. 
+This is an app that focuses on providing a seamless consumer experience for luxury car enthusiasts. Users can set up the showing and ultiamte purchase of highly coveted cars with specific car dealerships.
 
 ### Technology Used
-Google Maps API, MEAN Stack, BCrypt & Pure CSS.
+Ruby, Sinatra, postgreSQL, ActiveRecord, BCrypt & Pure CSS
+
+
+

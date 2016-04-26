@@ -7,8 +7,8 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Tue, 26 Apr 2016 08:51:19 -0400</pubDate>
-        <lastBuildDate>Tue, 26 Apr 2016 08:51:19 -0400</lastBuildDate>
+        <pubDate>Tue, 26 Apr 2016 08:53:46 -0400</pubDate>
+        <lastBuildDate>Tue, 26 Apr 2016 08:53:46 -0400</lastBuildDate>
         <generator>Jekyll v3.1.2</generator>
         
         <item>
@@ -26,11 +26,11 @@
         </item>
         
         <item>
-            <title>CARfetch</title>
-            <description>&lt;p&gt;This is an app that focuses on providing a seamless consumer experience for luxury car enthusiasts. Users can set up the showing and ultiamte purchase of highly coveted cars with specific car dealerships.&lt;/p&gt;
+            <title>GreenHub</title>
+            <description>&lt;p&gt;A group project that focused on providing a communal space for users that would like to make cleanup initiatives around London. You’re able to login and setup an event under specific categories. Once it is live, other members can sign up to help with your initiative.&lt;/p&gt;
 
 &lt;h3 id=&quot;technology-used&quot;&gt;Technology Used&lt;/h3&gt;
-&lt;p&gt;Ruby, Sinatra, postgreSQL, ActiveRecord, BCrypt &amp;amp; Pure CSS&lt;/p&gt;
+&lt;p&gt;Google Maps API, MEAN Stack, BCrypt &amp;amp; Pure CSS.&lt;/p&gt;
 </description>
             <pubDate>Fri, 24 Apr 2015 00:00:00 -0400</pubDate>
             <link>#/2015/04/24/i-scream.html</link>
@@ -40,11 +40,12 @@
         </item>
         
         <item>
-            <title>GreenHub</title>
-            <description>&lt;p&gt;A group project that focused on providing a communal space for users that would like to make cleanup initiatives around London. You’re able to login and setup an event under specific categories. Once it is live, other members can sign up to help with your initiative.&lt;/p&gt;
+            <title>CARfetch</title>
+            <description>&lt;p&gt;This is an app that focuses on providing a seamless consumer experience for luxury car enthusiasts. Users can set up the showing and ultiamte purchase of highly coveted cars with specific car dealerships.&lt;/p&gt;
 
 &lt;h3 id=&quot;technology-used&quot;&gt;Technology Used&lt;/h3&gt;
-&lt;p&gt;Google Maps API, MEAN Stack, BCrypt &amp;amp; Pure CSS.&lt;/p&gt;
+&lt;p&gt;Ruby, Sinatra, postgreSQL, ActiveRecord, BCrypt &amp;amp; Pure CSS&lt;/p&gt;
+
 </description>
             <pubDate>Thu, 23 Apr 2015 00:00:00 -0400</pubDate>
             <link>#/2015/04/23/night-sky.html</link>

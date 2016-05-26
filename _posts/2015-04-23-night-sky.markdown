@@ -2,7 +2,7 @@
 title: "CARfetch"
 subtitle: "Luxury Cars at the Push of a Button"
 image: "img/carfetch.jpg"
-link: "https://carfetch.herokuapp.com"
+link: "https://github.com/amack459/WDI_PROJECT2"
 name: "carfetch"
 ---
 
@@ -13,3 +13,4 @@ Ruby, Sinatra, postgreSQL, ActiveRecord, BCrypt & Pure CSS
 
 
 
+ 

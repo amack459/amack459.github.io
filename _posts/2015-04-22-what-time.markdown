@@ -2,7 +2,7 @@
 title: "Modern Go!"
 subtitle: "For the Next Generation of Go Enthusiasts!"
 image: "img/go.jpg"
-link: "https://moderngo.herokuapp.com"
+link: "https://github.com/amack459/WDI_PROJECT1"
 name: "moderngo"
 ---
 

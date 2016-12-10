@@ -2,6 +2,7 @@
 title:  "GreenHub"
 image: "img/greenhub.jpg"
 link: "https://github.com/fhhopkinson/WDI_project_3"
+link2: "https://greenhub.herokuapp.com/"
 name: "greenhub"
 ---
 

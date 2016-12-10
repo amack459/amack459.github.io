@@ -1,8 +1,9 @@
 ---
-title:  "Studio Vibes"
+title: "Studio Vibes"
 subtitle: "Facilitating Musical Collaboration"
 image: "img/studiovibes.jpg"
 link: "https://github.com/amack459/WDI_PROJECT_4"
+link2: "https://studiovibes.herokuapp.com"
 name: "studiovibes"
 ---
 

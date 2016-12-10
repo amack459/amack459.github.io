@@ -307,6 +307,13 @@ a:focus {
 	.header {
 		padding: 3em 10% 4em;
 	}
+
+	.wrapper {
+		overflow: auto;
+		width: 95%;
+		max-width: 1366px;
+		margin: 0 7px;
+	}
 }
 
 @media screen and (max-width: 40em) {

@@ -3,6 +3,7 @@ title: "CARfetch"
 subtitle: "Luxury Cars at the Push of a Button"
 image: "img/carfetch.jpg"
 link: "https://github.com/amack459/WDI_PROJECT2"
+link2: "https:carfetch.herokuapp.com"
 name: "carfetch"
 ---
 
